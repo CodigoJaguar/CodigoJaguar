@@ -16,12 +16,8 @@ Here are some ideas to get you started:
 -->
 
 A passionate Full-Stack developer from Mexico
-I specialize in web development using technologies such as React, Node.js, and SQL. On this page, you'll find some of my latest projects, which showcase my skills and experience in the field. I'm always eager to learn and collaborate with others, so feel free to reach out to me with any questions or opportunities. Let's build something amazing together
+I specialize in web development using technologies such as ASP.NET, Blazor, MVC and Angular, in addition i had worked in projects with React, Node.js, and SQL. On this page, you'll find some of my latest projects, which showcase my skills and experience in the field. I'm always eager to learn and collaborate with others, so feel free to reach out to me with any questions or opportunities. Let's build something amazing together
 
-
-🌱 I’m currently learning React Js, Next, Typescript, MongoDB
-
-👨‍💻 My most complete project developed in Team https://code-advisor-ultimate.vercel.app/
 
 My portfolio website is https://portfolio-santander.vercel.app/
 
